@@ -1,0 +1,5 @@
+# Project exclude paths
+/hello-spring-cloud-admin-ribbon/target/
+/hello-spring-cloud-eureka/target/
+/hello-spring-cloud-service-sender/target/
+/spring-cloud-feign-consumer/target/

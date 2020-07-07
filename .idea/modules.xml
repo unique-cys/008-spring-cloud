@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/007-spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/007-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-admin-ribbon/hello-spring-cloud-admin-ribbon.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-admin-ribbon/hello-spring-cloud-admin-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-dependencies/hello-spring-cloud-dependencies.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-dependencies/hello-spring-cloud-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-eureka/hello-spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-eureka/hello-spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-service-sender/hello-spring-cloud-service-sender.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-service-sender/hello-spring-cloud-service-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign-consumer/spring-cloud-feign-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-feign-consumer/spring-cloud-feign-consumer.iml" />
+    </modules>
+  </component>
+</project>
