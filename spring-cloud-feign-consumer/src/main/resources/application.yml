@@ -2,7 +2,7 @@ spring:
   application:
     name: spring-cloud-feign-consumer
 server:
-  port: 9005
+  port: 9000
   ## 服务器地址
 eureka:
   client:
